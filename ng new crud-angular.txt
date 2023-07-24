@@ -1,0 +1,5 @@
+ng new crud-angular (criando projeto)
+
+ng serve (comando para executar o serve)
+
+ng g m courses --routing (criando roteamento - para podermos dicionar os componentes desse modulo)
